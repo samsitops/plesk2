@@ -4,24 +4,10 @@ repo: plesk2 # The name of this repository
 delay: 2000 # 2 seconds
 
 sites:
-  - name: guruindiancuisine
-    url: https://guruindiancuisine.com
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
-  - name: Plesk 2
-    url: https://plesk2.samitsolutions.com
+   - name: Plesk 12
+    url: https://plesk12.samitsolutions.com
     port: 8443
     maxResponseTime: 15000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
-  - name: imcs
-    url: https://imcs.sx
-    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -35,13 +21,6 @@ sites:
       - 403
   - name: asliceofthecloud
     url: https://asliceofthecloud.com
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
-  - name: bikanerelectrical
-    url: https://bikanerelectrical.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
@@ -89,13 +68,6 @@ sites:
       - 200
       - 201
       - 403
-  - name: jalwaindianbistro
-    url: https://jalwaindianbistro.com
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
   - name: prdbi
     url: https://prdbi.com
     maxResponseTime: 10000
@@ -105,13 +77,6 @@ sites:
       - 403
   - name: prodigybiotech
     url: https://prodigybiotech.com
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
-  - name: temoacloud
-    url: https://temoacloud.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
@@ -133,13 +98,6 @@ sites:
       - 403
   - name: laysciences
     url: https://laysciences.com
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
-  - name: Patagonia Health
-    url: https://patagoniahealth.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
