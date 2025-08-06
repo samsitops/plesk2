@@ -19,13 +19,6 @@ sites:
       - 200
       - 201
       - 403
-  - name: imcs
-    url: https://imcs.sx
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
   - name: samanalyticsolutions
     url: https://samanalyticsolutions.com
     maxResponseTime: 10000
@@ -40,14 +33,7 @@ sites:
       - 200
       - 201
       - 403
-  - name: bikanerelectrical
-    url: https://bikanerelectrical.com
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
-  - name: Cary Endoscopy Center
+   - name: Cary Endoscopy Center
     url: https://caryendoscopycenter.com
     maxResponseTime: 15000
     expectedStatusCodes:
@@ -84,13 +70,6 @@ sites:
       - 403
   - name: hcilcode
     url: https://hcilcode.com
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
-  - name: jalwaindianbistro
-    url: https://jalwaindianbistro.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
@@ -133,13 +112,6 @@ sites:
       - 403
   - name: laysciences
     url: https://laysciences.com
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
-  - name: Patagonia Health
-    url: https://patagoniahealth.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
