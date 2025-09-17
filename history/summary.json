@@ -31,19 +31,19 @@
     "url": "https://plesk12.samitsolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/plesk12.samitsolutions.com.ico",
     "slug": "plesk-12",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 960,
-    "timeDay": 9706,
-    "timeWeek": 2835,
-    "timeMonth": 1105,
-    "timeYear": 960,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 948,
+    "timeDay": 6617,
+    "timeWeek": 2568,
+    "timeMonth": 1085,
+    "timeYear": 948,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 20
     }
   },
   {
@@ -63,7 +63,7 @@
     "timeMonth": 1886,
     "timeYear": 1373,
     "dailyMinutesDown": {
-      "2025-09-17": 389,
+      "2025-09-17": 409,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
