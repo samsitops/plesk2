@@ -180,6 +180,48 @@ sites:
       - 200
       - 201
       - 403
+  - name: hemiable
+    url: https://hemiable.com
+    maxResponseTime: 15000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+  - name: wordwaredesigns
+    url: https://wordwaredesigns.store
+    maxResponseTime: 15000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+  - name: celebrityrockingham
+    url: https://celebrityrockingham.com
+    maxResponseTime: 15000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+  - name: ncinpac
+    url: https://ncinpac.org
+    maxResponseTime: 15000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+  - name: thefarmersindianrestaurant
+    url: https://thefarmersindianrestaurant.com
+    maxResponseTime: 15000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+  - name: myteamworkhealth
+    url: https://myteamworkhealth.com
+    maxResponseTime: 15000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
                
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
